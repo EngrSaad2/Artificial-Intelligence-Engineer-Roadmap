@@ -49,7 +49,7 @@ I'm a Software Engineer who is really passionate to become entrepreneur, investo
 - Flow Control
 - Data Structures
 - Functions
-- Files and the Operating System
+- Files and the Operating System.
 
 ## Python for Data Analysis (Pandas, NumPy)
 
