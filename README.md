@@ -78,6 +78,6 @@ I'm a Software Engineer who is really passionate to become entrepreneur, investo
 See [CONTRIBUTING.](https://github.com/athivvat/artificial-intelligence-engineer-roadmap/blob/master/CONTRIBUTING.md)
 
 # Working at Triangle Technologies Ltd
-Our mission is to "solve intelligence" and enable AI technologies to unleash everyone capabilites and to address humanity's grand challenges..
+Our mission is to "solve intelligence" and enable AI technologies to unleash everyone capabilites and to address humanity's grand challenges.
 
 
