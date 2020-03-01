@@ -21,7 +21,7 @@ I'm a Software Engineer who is really passionate to become entrepreneur, investo
 
 ## Table of Contents
 - [What Exactly Does an AI Engineer Do](https://github.com/athivvat/artificial-intelligence-engineer-roadmap/blob/master/contents/01-What%20Exactly%20Does%20an%20AI%20Engineer%20Do.md)
-- Part I: Artificial Intelligence...
+- Part I: Artificial Intelligence..
     - Chapter 1: Intro to Artificial Intelligence
         - What is Artificial Intelligence?
         - The History of Artificial Intelligence
