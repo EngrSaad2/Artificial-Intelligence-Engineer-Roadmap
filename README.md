@@ -12,7 +12,7 @@ Phone: +8801904654712<br>
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
-## Overview.
+## Overview
 This is resources for going from software engineer/non-software engineer to profressional in AI engineer.
 
 ## About Me
