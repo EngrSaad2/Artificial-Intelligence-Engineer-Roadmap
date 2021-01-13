@@ -26,7 +26,7 @@ I'm a Software Engineer who is really passionate to become entrepreneur, investo
         - What is Artificial Intelligence?
         - The History of Artificial Intelligence
 - Part II: Problem-solving
-- Part III: Knowledge, reasoning, and planning.
+- Part III: Knowledge, reasoning, and planning...
 - Part IV: Uncertain knowledge and reasoning..
 - Part V: Learning
 - Part VI: Communicating, perceiving, and acting
