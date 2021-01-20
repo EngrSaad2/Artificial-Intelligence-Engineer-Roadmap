@@ -27,7 +27,7 @@ I'm a Software Engineer who is really passionate to become entrepreneur, investo
         - The History of Artificial Intelligence
 - Part II: Problem-solving
 - Part III: Knowledge, reasoning, and planning.
-- Part IV: Uncertain knowledge and reasoning..
+- Part IV: Uncertain knowledge and reasoning.
 - Part V: Learning
 - Part VI: Communicating, perceiving, and acting
 - [Appendix A: Rockstars of the AI Research and AI Engineering World](https://github.com/athivvat/artificial-intelligence-engineer-roadmap/blob/master/contents/Appendix%20A:%20Rockstars%20of%20the%20AI%20Engineering%20World.md)
